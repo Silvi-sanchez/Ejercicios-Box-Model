@@ -1,0 +1,108 @@
+html{
+    background-color: rgb(139, 131, 131);
+}
+
+.bandera-argentina, .bandera-francia, .bandera-alemania, .bandera-mexico, .bandera-rusia, .bandera-italia{
+    background-color: rgb(46, 40, 40);
+    width: 300px;
+    height: 200px;
+    margin: 5px;
+    float: left;
+    margin-left: 110px;
+    margin-top: 80px;
+}
+.arg-celeste{
+    background-color: rgb(115, 169, 219);
+    height: 66.6px
+}
+.arg-blanca{
+    background-color: white;
+    height: 66.6px;
+}
+.arg-celeste1{
+    background-color: rgb(115, 169, 219);
+    height: 66.6px
+}
+
+.fran-azul{
+    background-color: rgb(41, 0, 221);
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+.fran-blanca{
+    background-color: white;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+.fran-roja{
+    background-color: red;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+
+.alem-negra{
+    background-color: black;
+    height: 66.6px
+}
+.alem-rojo{
+    background-color: red;
+    height: 66.6px
+}
+.alem-amarillo{
+    background-color: yellow;
+    height: 66.6px
+}
+
+.mex-verde{
+    background-color: rgb(1, 92, 36);
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+.mex-blanco{
+    background-color: white;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+.mex-rojo{
+    background-color: red;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+
+.rus-blanco{
+    background-color: white;
+    height: 66.6px
+}
+.rus-azul{
+    background-color: rgb(16, 16, 184);
+    height: 66.6px
+}
+.rus-roja{
+    background-color: red;
+    height: 66.6px
+}
+
+.ita-verde{
+    background-color: green;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+.ita-blanca{
+    background-color: white;
+    width: 100px;
+    height: 200px;
+    float: left;
+}
+.ita-roja{
+    background-color: red;
+    width: 100px;
+    height: 200px;
+    float: left;
+}

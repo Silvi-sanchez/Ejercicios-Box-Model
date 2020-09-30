@@ -1,0 +1,51 @@
+html{
+    background-color: white;
+}
+
+.barra-progreso{
+    width: 500px;
+    height: 30px;
+    border-radius: 100px;
+    padding: 3px;
+    background-color: rgb(22, 77, 75);
+    color:rgb(195, 208, 212);
+    margin: 15px;
+   
+}
+
+.diez{
+    width: 10%;
+    background-color: rgb(176, 185, 178);
+    height: 55%;
+    margin: 7px;
+    border-radius: 100px;
+
+}
+.veinticinco{
+    width: 25%;
+    background-color: rgb(176, 185, 178);
+    height: 55%;
+    margin: 7px;
+    border-radius: 100px;
+}
+.cincuenta{
+    width: 50%;
+    background-color: rgb(176, 185, 178);
+    height: 55%;
+    margin: 7px;
+    border-radius: 100px;
+}
+.setentaycinco{
+    width: 75%;
+    background-color: rgb(176, 185, 178);
+    height: 55%;
+    margin: 7px;
+    border-radius: 100px;
+}
+.noventa{
+    width: 90%;
+    background-color: rgb(176, 185, 178);
+    height: 55%;
+    margin: 7px;
+    border-radius: 100px;
+}

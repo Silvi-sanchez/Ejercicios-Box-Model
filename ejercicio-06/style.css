@@ -1,0 +1,74 @@
+html{
+    background-color: thistle;
+}
+main{
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    margin-left: 400px;
+    border-radius: 30px;
+    margin-top: 100px;
+}
+
+h1{
+    color: black; 
+    font-family: 'Courier Prime', monospace;
+    display: block;
+    text-align: center;
+    font-size: 23px;
+    margin-bottom: 80px;
+    font-weight: bold;
+    padding-top: 65px;
+   
+}
+
+.boton{
+    background: #ffffff;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #000000;
+    text-align: center;
+    font-size: 15px;
+    padding: 15px 20px;
+    text-decoration: none;
+    width: 60px;
+    height: 10px;
+    bottom: 50px;
+    margin-left: 40px;
+    border: outset;
+
+}
+
+.fin{
+    width: 300px;
+    color: white;
+    border: 1px solid #ebebf2;
+    border-radius: 10px;
+    padding: 15px 40px;
+    margin-left: 58px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-weight: 550;
+    margin-top: 30px;
+    font-size: 18px;
+    background-color: rgb(87, 76, 233);
+    text-align: center;
+    }
+
+.botonazul{
+        background:  rgb(87, 76, 233);
+        border-radius: 10px;
+        font-weight: 20px;
+        font-size: 15px;
+        padding: 15px 20px;
+        text-decoration: none;
+        width: 60px;
+        height: 10px;
+        bottom: 50px;
+        margin-left: 40px;
+        border: outset;
+        color: white;
+}
